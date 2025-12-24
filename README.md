@@ -1,5 +1,6 @@
-# Chellify-Healthcare-Analytics
-This repository contains analytics report for a fictional Healthcare Centre
+# AEM-Healthcare-Analytics
+
+This repository contains analytics report for an interactive Power BI analytics project that provides insights into hospital operations, patient demographics, disease distribution, and treatment patterns. The dashboard enables analysis of patient admissions, condition severity, and healthcare utilization through KPIs, trends, and comparative visuals to support data-driven hospital management.
 
 ## Executive Overview
 ![alt text](<Visuals/Executive Overview.png>)
@@ -45,7 +46,7 @@ Admissions are stable with balanced demographics, rising health demand as age-gr
 ### Summary
 
 - Hospital operations are efficient (4-day average stay).
-- Mental health and chronic care require sustained focus.
+- Mental health (Anxiety, Depression) and chronic care require sustained focus.
 - December anomaly should be reviewed.
 
 ## Patient Overview
@@ -89,7 +90,7 @@ Patient demand is balanced across demographics, severity levels, and treatments,
 
 - Insignificantly higher disease incidence among:
   - Nurses
-  - engineers
+  - Engineers
   - Traders (being top 3)
 
 Likely linked to high-contact or high-stress occupations (this margin is slight and not significant).
@@ -97,12 +98,12 @@ Likely linked to high-contact or high-stress occupations (this margin is slight 
 ## Treatment & Visit Patterns
 
 Treatment types evenly distributed:
-- Rehabilitation, Observation, Medication, Therapy, Surgery (~20% each)
+ - Rehabilitation, Observation, Medication, Therapy, Surgery (~20% each)
 - Top reasons for hospital visits:
-- Lab Tests (20.1%)
-- Follow-ups (20.08%)
-- Medication Review (19.95%)
-- Emergency & Checkups (~20% each)
+ - Lab Tests (20.1%)
+ - Follow-ups (20.08%)
+ - Medication Review (19.95%)
+ - Emergency & Checkups (~20% each)
 
 ### Summary
 
@@ -110,3 +111,7 @@ Treatment types evenly distributed:
 - Disease severity is evenly spread, aiding predictable capacity planning
 - Mental health conditions remain a major demand driver
 - Non-invasive treatments dominate overall care
+
+## Hospital Overview
+
+### Overall Insight
